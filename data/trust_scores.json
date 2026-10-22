@@ -1,0 +1,162 @@
+{
+  "DEV_000": {
+    "trust_score": 82.37,
+    "device_type": "prosumer",
+    "epochs_evaluated": 104,
+    "anomalous_windows": 6,
+    "suspended": false,
+    "below_trade_threshold": false
+  },
+  "DEV_001": {
+    "trust_score": 82.34,
+    "device_type": "prosumer",
+    "epochs_evaluated": 104,
+    "anomalous_windows": 3,
+    "suspended": false,
+    "below_trade_threshold": false
+  },
+  "DEV_002": {
+    "trust_score": 82.34,
+    "device_type": "prosumer",
+    "epochs_evaluated": 104,
+    "anomalous_windows": 7,
+    "suspended": false,
+    "below_trade_threshold": false
+  },
+  "DEV_003": {
+    "trust_score": 82.08,
+    "device_type": "prosumer",
+    "epochs_evaluated": 104,
+    "anomalous_windows": 10,
+    "suspended": false,
+    "below_trade_threshold": false
+  },
+  "DEV_004": {
+    "trust_score": 82.37,
+    "device_type": "prosumer",
+    "epochs_evaluated": 104,
+    "anomalous_windows": 7,
+    "suspended": false,
+    "below_trade_threshold": false
+  },
+  "DEV_005": {
+    "trust_score": 82.27,
+    "device_type": "prosumer",
+    "epochs_evaluated": 104,
+    "anomalous_windows": 9,
+    "suspended": false,
+    "below_trade_threshold": false
+  },
+  "DEV_006": {
+    "trust_score": 81.45,
+    "device_type": "prosumer",
+    "epochs_evaluated": 104,
+    "anomalous_windows": 10,
+    "suspended": false,
+    "below_trade_threshold": false
+  },
+  "DEV_007": {
+    "trust_score": 82.39,
+    "device_type": "prosumer",
+    "epochs_evaluated": 104,
+    "anomalous_windows": 6,
+    "suspended": false,
+    "below_trade_threshold": false
+  },
+  "DEV_008": {
+    "trust_score": 82.36,
+    "device_type": "prosumer",
+    "epochs_evaluated": 104,
+    "anomalous_windows": 10,
+    "suspended": false,
+    "below_trade_threshold": false
+  },
+  "DEV_009": {
+    "trust_score": 82.45,
+    "device_type": "prosumer",
+    "epochs_evaluated": 104,
+    "anomalous_windows": 7,
+    "suspended": false,
+    "below_trade_threshold": false
+  },
+  "DEV_010": {
+    "trust_score": 82.37,
+    "device_type": "prosumer",
+    "epochs_evaluated": 104,
+    "anomalous_windows": 5,
+    "suspended": false,
+    "below_trade_threshold": false
+  },
+  "DEV_011": {
+    "trust_score": 82.42,
+    "device_type": "prosumer",
+    "epochs_evaluated": 104,
+    "anomalous_windows": 7,
+    "suspended": false,
+    "below_trade_threshold": false
+  },
+  "DEV_012": {
+    "trust_score": 82.05,
+    "device_type": "prosumer",
+    "epochs_evaluated": 104,
+    "anomalous_windows": 8,
+    "suspended": false,
+    "below_trade_threshold": false
+  },
+  "DEV_013": {
+    "trust_score": 82.4,
+    "device_type": "prosumer",
+    "epochs_evaluated": 104,
+    "anomalous_windows": 1,
+    "suspended": false,
+    "below_trade_threshold": false
+  },
+  "DEV_014": {
+    "trust_score": 82.3,
+    "device_type": "prosumer",
+    "epochs_evaluated": 104,
+    "anomalous_windows": 5,
+    "suspended": false,
+    "below_trade_threshold": false
+  },
+  "DEV_015": {
+    "trust_score": 81.94,
+    "device_type": "consumer",
+    "epochs_evaluated": 104,
+    "anomalous_windows": 1,
+    "suspended": false,
+    "below_trade_threshold": false
+  },
+  "DEV_016": {
+    "trust_score": 82.45,
+    "device_type": "consumer",
+    "epochs_evaluated": 104,
+    "anomalous_windows": 1,
+    "suspended": false,
+    "below_trade_threshold": false
+  },
+  "DEV_017": {
+    "trust_score": 82.45,
+    "device_type": "consumer",
+    "epochs_evaluated": 104,
+    "anomalous_windows": 0,
+    "suspended": false,
+    "below_trade_threshold": false
+  },
+  "DEV_018": {
+    "trust_score": 82.45,
+    "device_type": "consumer",
+    "epochs_evaluated": 104,
+    "anomalous_windows": 0,
+    "suspended": false,
+    "below_trade_threshold": false
+  },
+  "DEV_019": {
+    "trust_score": 82.45,
+    "device_type": "consumer",
+    "epochs_evaluated": 104,
+    "anomalous_windows": 2,
+    "suspended": false,
+    "below_trade_threshold": false
+  }
+}

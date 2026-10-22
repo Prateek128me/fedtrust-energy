@@ -1,0 +1,17 @@
+{
+  "name": "fedtrust-energy",
+  "version": "1.0.0",
+  "description": "FedTrust-Energy: Blockchain-based P2P energy trading with federated fraud detection and adaptive IoT trust scoring",
+  "license": "MIT",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "node": "hardhat node",
+    "deploy": "hardhat run scripts/deploy.js --network localhost"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.29.1",
+    "solc": "^0.8.24"
+  }
+}
